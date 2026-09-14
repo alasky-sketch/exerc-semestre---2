@@ -1,0 +1,72 @@
+🧠 MATEMÁTICA DISCRETA PARA COMPUTAÇÃO
+ ├── 1. TEORIA DE CONJUNTOS
+ │    ├── 1.1 Definições & Tipos de Dados
+ │    │    ├── Por Extensão (Arrays / Enums)
+ │    │    ├── Por Intensão (List Comprehensions / WHERE SQL)
+ │    │    └── Notáveis ↔ Tipos de Dados
+ │    │         ├── ℕ (Naturais) ──► uint
+ │    │         ├── ℤ (Inteiros) ──► int / long
+ │    │         ├── ℚ (Racionais) ──► float / double
+ │    │         └── ∅ (Vazio) ──► null / None
+ │    │
+ │    ├── 1.2 Operações & Equivalência em TI
+ │    │    ├── União (A ∪ B) ──► UNION / FULL OUTER JOIN
+ │    │    ├── Interseção (A ∩ B) ──► INTERSECT / INNER JOIN
+ │    │    ├── Diferença (A \ B) ──► EXCEPT / NOT IN
+ │    │    ├── Produto Cartesiano (A × B) ──► CROSS JOIN / Nested Loops O(n²)
+ │    │    └── Conjunto das Partes (P(A))
+ │    │         └── |P(A)| = 2ⁿ ──► Bitmasks / Permissões (chmod)
+ │    │
+ │    └── 1.3 Leis de De Morgan
+ │         ├── 1ª Lei: ̅A̅ ̅∪̅ ̅B̅ = A̅ ∩ B̅
+ │         ├── 2ª Lei: ̅A̅ ̅∩̅ ̅B̅ = A̅ ∪ B̅
+ │         └── Aplicação ──► Refatoração de if() / Portas NAND e NOR
+ │
+ ├── 2. SOMATÓRIOS (Σ), PRODUTÓRIOS (Π) & COMPLEXIDADE
+ │    ├── 2.1 Somatórios (Σ)
+ │    │    ├── Propriedades (Linearidade / Constantes)
+ │    │    ├── Soma de PA ──► Σ i = n(n+1)/2
+ │    │    ├── Soma de Quadrados ──► Σ i² = n(n+1)(2n+1)/6
+ │    │    ├── Soma de PG ──► Σ rⁱ = (rⁿ⁺¹ - 1)/(r - 1)
+ │    │    └── Aplicação ──► Contagem de passos em laços (Complexidade O(n))
+ │    │
+ │    └── 2.2 Produtórios (Π) & Fatorial
+ │         └── Π i = n! ──► Explosão combinatória / Força bruta / Criptografia
+ │
+ ├── 3. INDUÇÃO MATEMÁTICA (PIM)
+ │    ├── 3.1 Indução Fraca (Efeito Dominó)
+ │    │    ├── 1. Base da Indução: Provar P(n₀)
+ │    │    └── 2. Passo Indutivo: P(k) [Hipótese] ⟹ P(k+1) [Tese]
+ │    │
+ │    ├── 3.2 Indução Forte
+ │    │    └── Assume P(n₀)...P(k) verdadeiros para provar P(k+1)
+ │    │
+ │    └── Aplicação em TI ──► Prova de algoritmos recursivos / Divisão e Conquista
+ │
+ ├── 4. COMBINATÓRIA BÁSICA
+ │    ├── 4.1 Princípios Fundamentais
+ │    │    ├── Aditivo (OU) ──► Mutuamente exclusivos (Soma)
+ │    │    └── Multiplicativo / PFC (E) ──► Etapas sucessivas (Produto)
+ │    │
+ │    └── 4.2 Agrupamentos Simples
+ │         ├── Permutação (Pₙ = n!) ──► Ordem IMPORTA (Todos os itens)
+ │         ├── Arranjo (Aₙᵖ = n!/(n-p)!) ──► Ordem IMPORTA (Subconjunto)
+ │         └── Combinação (Cₙᵖ = n!/(p!(n-p)!)) ──► Ordem NÃO importa
+ │
+ └── 5. COMBINATÓRIA AVANÇADA
+      ├── 5.1 Equações Lineares (Soluções Inteiras / Comb. c/ Repetição)
+      │    ├── Formulação ──► CRₙᵐ = ⎛m+n-1⎞
+      │    │                          ⎝  m  ⎠
+      │    └── Aplicação ──► Load Balancers / Alocação de recursos
+      │
+      ├── 5.2 Permutações Circulares
+      │    └── PCₙ = (n - 1)!
+      │
+      ├── 5.3 Teorema Binomial
+      │    └── Binômio de Newton: (a + b)ⁿ = Σ ⎛n⎞ aⁿ⁻ᵏ bᵏ
+      │                                       ⎝k⎠
+      │
+      └── 5.4 Princípio da Inclusão-Exclusão (PIE)
+           ├── 2 Conjuntos ──► |A ∪ B| = |A| + |B| - |A ∩ B|
+           ├── 3 Conjuntos ──► Soma singulares - Interseções duplas + Triplas
+           └── Caso Geral ──► Alternância de Sinais (+ / - / + / -)
