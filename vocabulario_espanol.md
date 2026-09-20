@@ -1,329 +1,353 @@
-# Diccionario y Guía Gramatical de Palabras en Español
+# Vocabulario en Español Ampliado
 
-Este documento contiene la definición, sinónimos, antónimos, ejemplos en frase y conjugaciones (para verbos) de la lista de palabras solicitada, organizada por categoría gramatical y en orden alfabético.
+Este documento contiene el análisis gramatical, semántico y las conjugaciones ampliadas del vocabulario solicitado. Las palabras están organizadas por categorías gramaticales y ordenadas alfabéticamente.
 
 ---
 
-## 1. Sustantivos (Sustantivos / Nomes)
+## 1. Sustantivos (Nombres)
 
 ### Cofradía
-* **Definição:** Asociación de personas con un fin religioso, gremial o benéfico.
-* **Sinônimos:** Hermandad, asociación, gremio, corporación.
-* **Antônimos:** Disociación, enemistad.
-* **Exemplo em frase:** La cofradía del pueblo organiza la procesión de Semana Santa todos los años.
+*   **Definición:** Asociación de personas con un fin determinado, generalmente piadoso, religioso o gremial.
+*   **Sinónimos:** Hermandad, asociación, gremio, congregación.
+*   **Antónimos:** Disociación, enemistad (no existe un antónimo exacto, depende del contexto).
+*   **Ejemplo:** La **cofradía** del Santo Entierro desfiló solemnemente por las calles de Sevilla durante la Semana Santa.
 
 ### Fachada
-* **Definição:** Parte exterior o delantera de un edificio u otra construcción. También se usa figuradamente para la apariencia exterior de una persona.
-* **Sinônimos:** Frontis, frente, exterior, apariencia.
-* **Antônimos:** Interior, trasera, fondo.
-* **Exemplo em frase:** Han restaurado la hermosa fachada barroca de la catedral.
-
-### Mañana
-* **Definição:** Parte del día que transcurre desde el amanecer hasta el mediodía. (Nota: Como adverbio significa el día posterior al de hoy).
-* **Sinônimos:** Alborada, amanecer, madrugada.
-* **Antônimos:** Tarde, noche.
-* **Exemplo em frase:** Siempre me gusta tomar un café caliente por la mañana.
-
-### Miel
-* **Definição:** Sustancia dulce y viscosa producida por las abejas a partir del néctar de las flores.
-* **Sinônimos:** Néctar, melaza.
-* **Antônimos:** Hiel, amargor.
-* **Exemplo em frase:** Prefiero endulzar mi té con miel natural en lugar de azúcar.
+*   **Definición:** Parte exterior de un edificio, especialmente la principal. Por extensión, aspecto exterior de una persona o cosa.
+*   **Sinónimos:** Frontis, frente, exterior, apariencia.
+*   **Antónimos:** Interior, trasera, fondo.
+*   **Ejemplo:** Decidieron pintar la **fachada** de la casa de color blanco para que reflejara mejor la luz del sol.
 
 ### Novio / Novia
-* **Definição:** Persona que mantiene una relación amorosa con otra con la intención de casarse o mantener un vínculo formal.
-* **Sinônimos:** Pareja, prometido/a, enamorado/a.
-* **Antônimos:** Soltero/a, exnovio/a.
-* **Exemplo em frase:** Mi novio me preparó una cena sorpresa por nuestro aniversario.
+*   **Definición:** Persona que mantiene una relación amorosa con otra con intención de casarse o sin ella; persona que se va a casar.
+*   **Sinónimos:** Pareja, prometido/a, enamorado/a, pretendiente.
+*   **Antónimos:** Soltero/a, exnovio/a.
+*   **Ejemplo:** Mi **novio** me preparó una cena sorpresa deliciosa para celebrar nuestro aniversario.
 
 ### Pregunta
-* **Definição:** Interrogación que se hace para obtener una información o aclaración.
-* **Sinônimos:** Interrogante, duda, consulta, cuestión.
-* **Antônimos:** Respuesta, contestación, solución.
-* **Exemplo em frase:** El alumno levantó la mano para hacer una pregunta difícil.
+*   **Definición:** Formulación o enunciado que se hace para obtener una información, una aclaración o una respuesta.
+*   **Sinónimos:** Interrogante, consulta, duda, cuestión.
+*   **Antónimos:** Respuesta, contestación, solución.
+*   **Ejemplo:** El estudiante levantó la mano para hacer una **pregunta** sobre el tema de la lección.
 
 ### Respuesta
-* **Definição:** Contestación a una pregunta, llamada o estímulo.
-* **Sinônimos:** Contestación, solución, réplica.
-* **Antônimos:** Pregunta, interrogación.
-* **Exemplo em frase:** Recibí una respuesta afirmativa a mi solicitud de empleo.
+*   **Definición:** Contestación que se da a una pregunta, llamada o estímulo.
+*   **Sinónimos:** Contestación, réplica, solución, reacción.
+*   **Antónimos:** Pregunta, interrogante, duda.
+*   **Ejemplo:** La **respuesta** correcta al examen requería una explicación muy detallada.
 
 ### Siesta
-* **Definição:** Tiempo destinado a dormir o descansar después de almorzar.
-* **Sinônimos:** Descanso, reposo, cabezada.
-* **Antônimos:** Insomnio, desvelo.
-* **Exemplo em frase:** En muchos pueblos de España es costumbre dormir la siesta durante el verano.
+*   **Definición:** Tiempo destinado a dormir o descansar después de comer.
+*   **Sinónimos:** Descanso, reposo, cabezadita, sueño.
+*   **Antónimos:** Desvelo, insomnio.
+*   **Ejemplo:** En verano, siempre me gusta dormir una **siesta** corta de veinte minutos.
 
 ---
 
 ## 2. Verbos
 
 ### Apetecer
-* **Definição:** Tener ganas de algo, desearlo o resultar agradable.
-* **Sinônimos:** Antojarse, desear, querer, agradar.
-* **Antônimos:** Desagradar, repeler, aborrecer.
-* **Exemplo em frase:** Con este frío, me apetece un chocolate caliente.
-* **Conjugaciones Principales (Presente, Pasado, Futuro del Indicativo):**
-  * *Presente:* yo apetezco, tú apeteces, él apetece, nosotros apetecemos, vosotros apetecéis, ellos apetecen.
-  * *Pretérito Perfecto Simple:* yo apetecí, tú apeteciste, él apeteció, nosotros apetecimos, vosotros apetecisteis, ellos apetecieron.
-  * *Futuro:* yo apeteceré, tú apetecerás, él apetecerá, nosotros apeteceremos, vosotros apeteceréis, ellos apetecerán.
+*   **Definición:** Tener gana de algo, desearlo o sentir inclinación hacia ello.
+*   **Sinónimos:** Desear, querer, antojar, agradar.
+*   **Antónimos:** Desapetecer, desagradar, repugnar, rechazar.
+*   **Ejemplo:** Con este frío, me **apetece** tomar una taza de chocolate caliente.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo apetezco, tú apeteces, él apetece, nosotros apetecemos, vosotros apetecéis, ellos apetecen.
+    *   *Pretérito Perfecto Simple:* yo apetecí, tú apeteciste, él apeteció, nosotros apetecimos, vosotros apetecisteis, ellos apetecieron.
+    *   *Pretérito Imperfecto de Indicativo:* yo apetecía, tú apetecías, él apetecía, nosotros apetecíamos, vosotros apetecíais, ellos apetecían.
+    *   *Futuro de Indicativo:* yo apeteceré, tú apetecerás, él apetecerá, nosotros apeteceremos, vosotros apeteceréis, ellos apetecerán.
+    *   *Presente de Subjuntivo:* yo apetezca, tú apetezcas, él apetezca, nosotros apetezcamos, vosotros apetezcáis, ellos apetezcan.
 
 ### Chatear
-* **Definição:** Mantener una conversación mediante mensajes de texto en tiempo real a través de internet.
-* **Sinônimos:** Conversar, mensajear, textear.
-* **Antônimos:** Callar, incomunicarse.
-* **Exemplo em frase:** Pasa horas enteras chateando con sus amigos del extranjero.
-* **Conjugaciones Principales:**
-  * *Presente:* yo chateo, tú chateas, él chatea, nosotros chateamos, vosotros chateáis, ellos chatean.
-  * *Pretérito Perfecto Simple:* yo chateé, tú chateaste, él chateó, nosotros chateamos, vosotros chateasteis, ellos chatearon.
-  * *Futuro:* yo chatearé, tú chatearás, él chateará, nosotros chatearemos, vosotros chatearéis, ellos chatearán.
+*   **Definición:** Mantener una conversación mediante el uso de mensajes electrónicos o plataformas digitales en tiempo real.
+*   **Sinónimos:** Conversar, mensajearse, hablar, textear.
+*   **Antónimos:** Callar, aislarse (no existe un antónimo exacto en el contexto digital).
+*   **Ejemplo:** Suelo **chatear** con mis amigos del extranjero todas las noches.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo chateo, tú chateas, él chatea, nosotros chateamos, vosotros chateáis, ellos chatean.
+    *   *Pretérito Perfecto Simple:* yo chateé, tú chateaste, él chateó, nosotros chateamos, vosotros chateasteis, ellos chatearon.
+    *   *Pretérito Imperfecto de Indicativo:* yo chateaba, tú chateabas, él chateaba, nosotros chateábamos, vosotros chateabais, ellos chateaban.
+    *   *Futuro de Indicativo:* yo chatearé, tú chatearás, él chateará, nosotros chatearemos, vosotros chatearéis, ellos chatearán.
+    *   *Presente de Subjuntivo:* yo chatee, tú chatees, él chatee, nosotros chateemos, vosotros chateéis, ellos chateen.
 
 ### Cocinar
-* **Definição:** Preparar los alimentos mediante la acción del fuego o calor para que puedan comerse.
-* **Sinônimos:** Guisar, preparar, aderezar, hornear.
-* **Antônimos:** Ayunar, crudiar.
-* **Exemplo em frase:** Mi abuela solía cocinar los mejores platos tradicionales los domingos.
-* **Conjugaciones Principales:**
-  * *Presente:* yo cocino, tú cocinas, él cocina, nosotros cocinamos, vosotros cocináis, ellos cocinan.
-  * *Pretérito Perfecto Simple:* yo cociné, tú cocinaste, él cocinó, nosotros cocinamos, vosotros cocinasteis, ellos cocinaron.
-  * *Futuro:* yo cocinaré, tú cocinarás, él cocinará, nosotros cocinaremos, vosotros cocinaréis, ellos cocinarán.
+*   **Definición:** Preparar los alimentos mediante la acción del fuego o del calor para poder comerlos.
+*   **Sinónimos:** Guisar, aderezar, preparar, hornear.
+*   **Antónimos:** Ayunar, descocinar.
+*   **Ejemplo:** A mi madre le encanta **cocinar** paella los domingos para toda la familia.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo cocino, tú cocinas, él cocina, nosotros cocinamos, vosotros cocináis, ellos cocinan.
+    *   *Pretérito Perfecto Simple:* yo cociné, tú cocinaste, él cocinó, nosotros cocinamos, vosotros cocinasteis, ellos cocinaron.
+    *   *Pretérito Imperfecto de Indicativo:* yo cocinaba, tú cocinabas, él cocinaba, nosotros cocinábamos, vosotros cocinabais, ellos cocinaban.
+    *   *Futuro de Indicativo:* yo cocinaré, tú cocinarás, él cocinará, nosotros cocinaremos, vosotros cocinaréis, ellos cocinarán.
+    *   *Presente de Subjuntivo:* yo cocine, tú cocines, él cocine, nosotros cocinemos, vosotros cocinéis, ellos cocinen.
 
 ### Dormir
-* **Definição:** Estar en un estado de reposo en el que se suspende la conciencia y la actividad voluntaria.
-* **Sinônimos:** Descansar, pernoctar, reposar.
-* **Antônimos:** Despertar, desvelarse.
-* **Exemplo em frase:** El médico me recomendó dormir al menos ocho horas cada noche.
-* **Conjugaciones Principales (Verbo irregular: o -> ue):**
-  * *Presente:* yo duermo, tú duermes, él duerme, nosotros dormimos, vosotros dormís, ellos duermen.
-  * *Pretérito Perfecto Simple:* yo dormí, tú dormiste, él durmió, nosotros dormimos, vosotros dormisteis, ellos durmieron.
-  * *Futuro:* yo dormiré, tú dormirás, él dormirá, nosotros dormiremos, vosotros dormiréis, ellos dormirán.
+*   **Definición:** Estar en un estado de reposo en el que se suspende toda actividad consciente y todo movimiento voluntario.
+*   **Sinónimos:** Pernoctar, descansar, reposar, soñar.
+*   **Antónimos:** Despertar, madrugar, desvelarse.
+*   **Ejemplo:** Es muy importante **dormir** al menos ocho horas cada noche para reponer energías.
+*   **Conjugaciones (Irregular con cambio o/ue, u):**
+    *   *Presente de Indicativo:* yo duermo, tú duermes, él duerme, nosotros dormimos, vosotros dormís, ellos duermen.
+    *   *Pretérito Perfecto Simple:* yo dormí, tú dormiste, él durmió, nosotros dormimos, vosotros dormisteis, ellos durmieron.
+    *   *Pretérito Imperfecto de Indicativo:* yo dormía, tú dormías, él dormía, nosotros dormíamos, vosotros dormíais, ellos dormían.
+    *   *Futuro de Indicativo:* yo dormiré, tú dormirás, él dormirá, nosotros dormiremos, vosotros dormiréis, ellos dormirán.
+    *   *Presente de Subjuntivo:* yo duerma, tú duermas, él duerma, nosotros durmamos, vosotros durmáis, ellos duerman.
 
 ### Echar
-* **Definição:** Hacer que una cosa caiga en un lugar, despedir de sí, o expulsar a alguien de un sitio.
-* **Sinônimos:** Arrojar, lanzar, despedir, expulsar.
-* **Antônimos:** Recoger, acoger, retener.
-* **Exemplo em frase:** Recuerda echar la carta en el buzón antes de volver a casa.
-* **Conjugaciones Principales:**
-  * *Presente:* yo echo, tú echas, él echa, nosotros echamos, vosotros echáis, ellos echan.
-  * *Pretérito Perfecto Simple:* yo eché, tú echaste, él echó, nosotros echamos, vosotros echasteis, ellos echaron.
-  * *Futuro:* yo echaré, tú echarás, él echará, nosotros echaremos, vosotros echaréis, ellos echarán.
+*   **Definición:** Hacer que una cosa vaya a parar a alguna parte dándole impulso; despedir de sí algo.
+*   **Sinónimos:** Lanzar, tirar, arrojar, expulsar, poner.
+*   **Antónimos:** Recoger, retener, guardar, recibir.
+*   **Ejemplo:** Por favor, acuérdate de **echar** la carta en el buzón antes de volver.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo echo, tú echas, él echa, nosotros echamos, vosotros echáis, ellos echan.
+    *   *Pretérito Perfecto Simple:* yo eché, tú echaste, él echó, nosotros echamos, vosotros echasteis, ellos echaron.
+    *   *Pretérito Imperfecto de Indicativo:* yo echaba, tú echabas, él echaba, nosotros echábamos, vosotros echabais, ellos echaban.
+    *   *Futuro de Indicativo:* yo echaré, tú echarás, él echará, nosotros echaremos, vosotros echaréis, ellos echarán.
+    *   *Presente de Subjuntivo:* yo eche, tú eches, él eche, nosotros echemos, vosotros echéis, ellos echen.
 
 ### Echarse
-* **Definição:** Acostarse o tumbarse para descansar o dormir un rato.
-* **Sinônimos:** Acostarse, tumbarse, recostarse.
-* **Antônimos:** Levantarse, erguirse.
-* **Exemplo em frase:** Voy a echarme un rato en el sofá porque me duele la cabeza.
-* **Conjugaciones Principales (Pronominal):**
-  * *Presente:* yo me echo, tú te echas, él se echa, nosotros nos echamos, vosotros os echáis, ellos se echan.
-  * *Pretérito Perfecto Simple:* yo me eché, tú te echaste, él se echó, nosotros nos echamos, vosotros os echasteis, ellos se echaron.
-  * *Futuro:* yo me echaré, tú te echarás, él se echará, nosotros nos echaremos, vosotros os echaréis, ellos se echarán.
+*   **Definición:** Recostarse o tenderse para descansar o dormir. (Forma pronominal del verbo echar).
+*   **Sinónimos:** Recostarse, tenderse, tumbarse, acosarse.
+*   **Antónimos:** Levantarse, erguirse.
+*   **Ejemplo:** Voy a **echarme** un rato en el sofá porque me duele mucho la cabeza.
+*   **Conjugaciones (Forma Pronominal):**
+    *   *Presente de Indicativo:* yo me echo, tú te echas, él se echa, nosotros nos echamos, vosotros os echáis, ellos se echan.
+    *   *Pretérito Perfecto Simple:* yo me eché, tú te echaste, él se echó, nosotros nos echamos, vosotros os echasteis, ellos se echaron.
+    *   *Pretérito Imperfecto de Indicativo:* yo me echaba, tú te echabas, él se echaba, nosotros nos echábamos, vosotros os echabais, ellos se echaban.
+    *   *Futuro de Indicativo:* yo me echaré, tú te echarás, él se echará, nosotros nos echaremos, vosotros os echaréis, ellos se echarán.
+    *   *Presente de Subjuntivo:* yo me eche, tú te eches, él se eche, nosotros nos echemos, vosotros os echéis, ellos se echen.
 
 ### Limpiar
-* **Definição:** Quitar la suciedad de una cosa.
-* **Sinônimos:** Asear, lavar, purificar, sacudir.
-* **Antônimos:** Ensuciar, manchar, contaminar.
-* **Exemplo em frase:** Es necesario limpiar las ventanas para que entre más luz natural.
-* **Conjugaciones Principales:**
-  * *Presente:* yo limpio, tú limpias, él limpia, nosotros limpiamos, vosotros limpiáis, ellos limpian.
-  * *Pretérito Perfecto Simple:* yo limpié, tú limpiaste, él limpió, nosotros limpiamos, vosotros limpiasteis, ellos limpiaron.
-  * *Futuro:* yo limpiaré, tú limpiarás, él limpiará, nosotros limpiaremos, vosotros limpiaréis, ellos limpiarán.
+*   **Definición:** Quitar la suciedad o la inmundicia de una cosa.
+*   **Sinónimos:** Lavar, asear, purificar, higienizar.
+*   **Antónimos:** Ensuciar, manchar, contaminar.
+*   **Ejemplo:** Tenemos que **limpiar** las ventanas porque están llenas de polvo.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo limpio, tú limpias, él limpia, nosotros limpiamos, vosotros limpiáis, ellos limpian.
+    *   *Pretérito Perfecto Simple:* yo limpié, tú limpiaste, él limpió, nosotros limpiamos, vosotros limpiasteis, ellos limpiaron.
+    *   *Pretérito Imperfecto de Indicativo:* yo limpiaba, tú limpiabas, él limpiaba, nosotros limpiábamos, vosotros limpiabais, ellos limpiaban.
+    *   *Futuro de Indicativo:* yo limpiaré, tú limpiarás, él limpiará, nosotros limpiaremos, vosotros limpiaréis, ellos limpiarán.
+    *   *Presente de Subjuntivo:* yo limpie, tú limpies, él limpie, nosotros limpiemos, vosotros limpiéis, ellos limpien.
 
 ### Llover
-* **Definição:** Caer agua de las nubes en forma de gotas. (Verbo impersonal).
-* **Sinônimos:** Diluviar, lloviznar, chispear.
-* **Antônimos:** Escampar, despejar.
-* **Exemplo em frase:** Parece que va a llover esta tarde, lleva el paraguas.
-* **Conjugaciones Principales (Impersonal - Solo 3ª persona del singular):**
-  * *Presente:* llueve.
-  * *Pretérito Perfecto Simple:* llovió.
-  * *Futuro:* lloverá.
+*   **Definición:** Caer agua de las nubes en forma de gotas de lluvia.
+*   **Sinónimos:** Diluviar, lloviznar, chispear.
+*   **Antónimos:** Escampar, despejar.
+*   **Ejemplo:** El pronóstico dice que va a **llover** durante toda la tarde.
+*   **Conjugaciones (Defectivo / Impersonal - Solo tercera persona del singular):**
+    *   *Presente de Indicativo:* llueve.
+    *   *Pretérito Perfecto Simple:* llovió.
+    *   *Pretérito Imperfecto de Indicativo:* llovía.
+    *   *Futuro de Indicativo:* lloverá.
+    *   *Presente de Subjuntivo:* llueva.
 
 ### Montar
-* **Definição:** Subirse encima de un animal, de un vehículo o de una estructura. También significa ensamblar piezas.
-* **Sinônimos:** Cabalgar, subir, armar, ensamblar.
-* **Antônimos:** Desmontar, bajar, apearse.
-* **Exemplo em frase:** A los niños les encanta montar en bicicleta por el parque.
-* **Conjugaciones Principales:**
-  * *Presente:* yo monto, tú montas, él monta, nosotros montamos, vosotros montáis, ellos montan.
-  * *Pretérito Perfecto Simple:* yo monté, tú montaste, él montó, nosotros montamos, vosotros montasteis, ellos montaron.
-  * *Futuro:* yo montaré, tú montarás, él montará, nosotros montaremos, vosotros montaréis, ellos montarán.
+*   **Definición:** Subirse encima de un animal, un vehículo o un objeto; armar o ensamblar las piezas de un aparato o estructura.
+*   **Sinónimos:** Cabalgar, subir, ensamblar, armar.
+*   **Antónimos:** Desmontar, bajar, desarmar.
+*   **Ejemplo:** Los niños quieren **montar** en bicicleta por el parque este fin de semana.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo monto, tú montas, él monta, nosotros montamos, vosotros montáis, ellos montan.
+    *   *Pretérito Perfecto Simple:* yo monté, tú montaste, él montó, nosotros montamos, vosotros montasteis, ellos montaron.
+    *   *Pretérito Imperfecto de Indicativo:* yo montaba, tú montabas, él montaba, nosotros montábamos, vosotros montabais, ellos montaban.
+    *   *Futuro de Indicativo:* yo montaré, tú montarás, él montará, nosotros montaremos, vosotros montaréis, ellos montarán.
+    *   *Presente de Subjuntivo:* yo monte, tú montes, él monte, nosotros montemos, vosotros montéis, ellos monten.
 
 ### Pasear
-* **Definição:** Caminar o andar por gusto o distracción.
-* **Sinônimos:** Caminar, andar, deambular, recorrer.
-* **Antônimos:** Detenerse, quedarse, pararse.
-* **Exemplo em frase:** Nos gusta pasear por la playa durante el atardecer.
-* **Conjugaciones Principales:**
-  * *Presente:* yo paseo, tú paseas, él pasea, nosotros paseamos, vosotros paseáis, ellos pasean.
-  * *Pretérito Perfecto Simple:* yo paseé, tú paseaste, él paseó, nosotros paseamos, vosotros paseasteis, ellos pasearon.
-  * *Futuro:* yo pasearé, tú pasearás, él paseará, nosotros pasearemos, vosotros pasearéis, ellos pasearán.
+*   **Definición:** Caminar por distracción, ejercicio o recreo, generalmente a un ritmo tranquilo.
+*   **Sinónimos:** Caminar, deambular, andar, rondar.
+*   **Antónimos:** Detenerse, pararse, quedarse.
+*   **Ejemplo:** Nos gusta **pasear** por la playa al atardecer cuando refresca.
+*   **Conjugaciones:**
+    *   *Presente de Indicativo:* yo paseo, tú paseas, él pasea, nosotros paseamos, vosotros paseáis, ellos pasean.
+    *   *Pretérito Perfecto Simple:* yo paseé, tú paseaste, él paseó, nosotros paseamos, vosotros paseasteis, ellos pasearon.
+    *   *Pretérito Imperfecto de Indicativo:* yo paseaba, tú paseabas, él paseaba, nosotros paseábamos, vosotros paseabais, ellos paseaban.
+    *   *Futuro de Indicativo:* yo pasearé, tú pasearás, él paseará, nosotros pasearemos, vosotros pasearéis, ellos pasearán.
+    *   *Presente de Subjuntivo:* yo pasee, tú pasees, él pasee, nosotros paseemos, vosotros paseéis, ellos paseen.
 
 ---
 
 ## 3. Adjetivos
 
 ### Asqueroso
-* **Definição:** Que causa asco, repugnancia o suciedad extrema.
-* **Sinônimos:** Repugnante, inmundo, sucio, repulsivo.
-* **Antônimos:** Limpio, atrayente, delicioso, agradable.
-* **Exemplo em frase:** El callejón trasero del restaurante olía de forma asquerosa.
+*   **Definición:** Que causa asco, repugnancia o desagrado moral o físico.
+*   **Sinónimos:** Repugnante, inmundo, sucio, desagradable.
+*   **Antónimos:** Limpio, pulcro, delicioso, atrayente.
+*   **Ejemplo:** El callejón estaba sucio y desprendía un olor **asqueroso**.
 
 ### Canoso / Canosa
-* **Definição:** Que tiene el pelo blanco o gris debido a la edad o la genética.
-* **Sinônimos:** Entrecano, encanecido, blanquecino.
-* **Antônimos:** Pelirrojo, moreno, rubio (sin canas).
-* **Exemplo em frase:** Mi abuelo tiene un aspecto muy distinguido con su cabello canoso.
+*   **Definición:** Que tiene el pelo total o parcialmente blanco debido a la edad o la genética.
+*   **Sinónimos:** Entrecano, encanecido, blanco, cano.
+*   **Antónimos:** Peludo (sin canas), joven (en sentido figurado).
+*   **Ejemplo:** Mi abuelo es un hombre **canoso** con una barba muy elegante.
 
 ### Castaño
-* **Definição:** De color marrón similar al de la cáscara de la castaña. Se usa mucho para describir el pelo o los ojos.
-* **Sinônimos:** Marrón, pardo, avellana.
-* **Antônimos:** Rubio, negro, albino.
-* **Exemplo em frase:** Ella tiene unos ojos castaños muy expresivos.
+*   **Definición:** De color similar al de la cáscara de la castaña (marrón o pardo). Se usa mucho para describir el cabello o los ojos.
+*   **Sinónimos:** Marrón, pardo, avellana.
+*   **Antónimos:** Rubio, negro, pelirrojo (colores excluyentes).
+*   **Ejemplo:** Ella tiene el cabello **castaño** y largo, idéntico al de su madre.
 
 ### Correcto / Correcta
-* **Definição:** Que está libre de errores, o que se comporta de acuerdo con las normas de educación y moral.
-* **Sinônimos:** Acertado, exacto, educado, adecuado.
-* **Antônimos:** Incorrecto, equivocado, maleducado, erróneo.
-* **Exemplo em frase:** Su respuesta en el examen de matemáticas fue totalmente correcta.
-
-### Imposible
-* **Definição:** Que no puede ocurrir, suceder o ejecutarse.
-* **Sinônimos:** Inviable, irrealizable, utópico, inalcanzable.
-* **Antônimos:** Posible, factible, realizable.
-* **Exemplo em frase:** Es imposible volar sin la ayuda de algún tipo de tecnología.
+*   **Definición:** Que está libre de errores o fallas; conforme a las reglas, las costumbres o la moral.
+*   **Sinónimos:** Exacto, acertado, educado, adecuado.
+*   **Antónimos:** Incorrecto, equivocado, erróneo, maleducado.
+*   **Ejemplo:** Su comportamiento con los clientes siempre es impecable y **correcto**.
 
 ### Liso
-* **Definição:** Que no tiene arrugas, relieves ni ondas (referido al pelo, lacio).
-* **Sinônimos:** Llano, lacio, terso, suave.
-* **Antônimos:** Rizado, rugoso, áspero, ondulado.
-* **Exemplo em frase:** Ella prefiere usar la plancha para dejar su cabello completamente liso.
+*   **Definición:** Que no tiene arrugas, relieves, bultos o rizos; superficie plana o suave.
+*   **Sinónimos:* Plano, terso, suave, lacio (referido al pelo).
+*   **Antónimos:** Rizado, ondulado, rugoso, áspero.
+*   **Ejemplo:** Ella prefiere usar la plancha para dejar su cabello completamente **liso**.
+
+### Miel
+*   **Definición:** Utilizado como adjetivo cromático invariable para designar un color marrón claro o dorado semejante a la miel de abejas (común para describir ojos).
+*   **Sinónimos:** Ámbar, dorado, castaño claro.
+*   **Antónimos:** Negro, oscuro (colores opuestos).
+*   **Ejemplo:** Tiene unos ojos color **miel** que brillan de manera especial bajo la luz del sol.
 
 ### Moreno / Morena
-* **Definição:** Persona que tiene la piel oscura o el pelo negro o castaño oscuro.
-* **Sinônimos:** Trigueño, oscuro, tostado, castaño.
-* **Antônimos:** Rubio, pálido, pelirrojo.
-* **Exemplo em frase:** Después de las vacaciones de verano en la playa, regresó muy moreno.
+*   **Definición:** Que tiene el pelo negro o castaño oscuro; que tiene la piel oscura o bronceada por el sol.
+*   **Sinónimos:** Oscuro, bronceado, trigueño, castaño.
+*   **Antónimos:** Rubio, pálido, blanco.
+*   **Ejemplo:** Después de pasar dos semanas en la costa, regresó muy **moreno**.
 
 ### Nervioso / Nerviosa
-* **Definição:** Que tiene falta de tranquilidad o sufre de un estado de agitación o tensión emocional.
-* **Sinônimos:** Agitado, ansioso, alterado, inquieto.
-* **Antônimos:** Tranquilo, calmado, sereno.
-* **Exemplo em frase:** Estaba muy nervioso antes de subir al escenario para dar su discurso.
+*   **Definición:** Que sufre de falta de tranquilidad o control emocional; con tendencia a excitarse o alterarse fácilmente.
+*   **Sinónimos:** Inquieto, alterado, ansioso, agitado.
+*   **Antónimos:** Tranquilo, calmado, sereno, relajado.
+*   **Ejemplo:** Juan estaba tan **nervioso** antes de la entrevista que no podía quedarse quieto.
 
 ### Ondulado
-* **Definição:** Que forma ondas o curvas suaves.
-* **Sinônimos:** Rizado, ondeado, sinuoso.
-* **Antônimos:** Liso, recto, lacio.
-* **Exemplo em frase:** Su cabello ondulado se mueve suavemente con la brisa marina.
+*   **Definición:** Que forma ondas o curvas suaves.
+*   **Sinónimos:** Ondeado, rizado (levemente), sinuoso.
+*   **Antónimos:** Liso, recto, lacio.
+*   **Ejemplo:** Me encanta cómo le queda el cabello **ondulado** natural cuando sale del mar.
 
 ### Ordenado / Ordenada
-* **Definição:** Que guarda orden, limpieza y concierto en sus cosas o en su vida.
-* **Sinônimos:** Organizado, metódico, limpio, arreglado.
-* **Antônimos:** Desordenado, caótico, desorganizado.
-* **Exemplo em frase:** Marcos es un chico muy ordenado; siempre sabe dónde están sus papeles.
+*   **Definición:** Que guarda orden, pulcritud y colocación adecuada en las cosas o en su vida.
+*   **Sinónimos:** Organizado, metódico, limpio, arreglado.
+*   **Antónimos:** Desordenado, caótico, desorganizado.
+*   **Ejemplo:** Es un chico muy **ordenado**, siempre tiene su habitación impecable.
 
 ### Pelirrojo / Pelirroja
-* **Definição:** Que tiene el cabello de color rojo o anaranjado natural.
-* **Sinônimos:** Rufino, ígneo.
-* **Antônimos:** Rubio, moreno, canoso.
-* **Exemplo em frase:** Solo una pequeña parte de la población mundial nace pelirroja.
-
-### Perfecto / Perfecta
-* **Definição:** Que tiene el mayor grado posible de excelencia o bondad en su línea, sin ningún defecto.
-* **Sinônimos:** Ideal, impecable, excelente, consumado.
-* **Antônimos:** Defectuoso, imperfecto, malo.
-* **Exemplo em frase:** Pasamos un día perfecto en el campo con toda la familia.
+*   **Definición:** Que tiene el cabello de color rojo o anaranjado natural.
+*   **Sinónimos:** Ígneo, bermejo.
+*   **Antónimos:** Rubio, moreno.
+*   **Ejemplo:** El niño **pelirrojo** destaca mucho entre todos sus compañeros de escuela.
 
 ### Pobre
-* **Definição:** Que no tiene lo necesario para vivir o que es digno de compasión.
-* **Sinônimos:** Necesitado, humilde, escaso, desafortunado.
-* **Antônimos:** Rico, adinerado, opulento.
-* **Exemplo em frase:** Aquella humilde comunidad rural era muy pobre pero sumamente hospitalaria.
+*   **Definición:** Que no tiene lo necesario para vivir o que tiene pocos recursos económicos; digno de compasión o desdichado.
+*   **Sinónimos:** Necesitado, humilde, escaso, desdichado.
+*   **Antónimos:** Rico, acaudalado, abundante, afortunado.
+*   **Ejemplo:** El anciano vive en un barrio **pobre** pero es inmensamente feliz y generoso.
 
 ### Popular
-* **Definição:** Que es conocido y estimado por la gente en general, o relativo al pueblo.
-* **Sinônimos:** Famoso, querido, célebre, común.
-* **Antônimos:** Desconocido, impopular, aristocrático.
-* **Exemplo em frase:** El fútbol es el deporte más popular del planeta.
+*   **Definición:** Que pertenece al pueblo o procede de él; que es muy conocido, aceptado y querido por el público general.
+*   **Sinónimos:** Famoso, célebre, común, tradicional.
+*   **Antónimos:** Impopular, desconocido, aristocrático, elitista.
+*   **Ejemplo:** Ese cantante se volvió muy **popular** gracias a las redes sociales.
 
 ### Rico
-* **Definição:** Que tiene mucho dinero o bienes. También se refiere a comida sabrosa.
-* **Sinônimos:** Adinerado, opulento, sabroso, delicioso.
-* **Antônimos:** Pobre, desabrido, insípido.
-* **Exemplo em frase:** Ese postre de chocolate está realmente rico.
+*   **Definición:** Que posee muchos bienes, dinero o recursos económicos; que tiene un sabor muy agradable o contiene muchos nutrientes.
+*   **Sinónimos:** Acaudalado, millonario, sabroso, delicioso.
+*   **Antónimos:** Pobre, insípido, asqueroso.
+*   **Ejemplo:** Ese pastel de chocolate que preparaste está verdaderamente **rico**.
 
 ### Rizado
-* **Definição:** Cabello que forma tirabuzones, rulos o bucles muy marcados.
-* **Sinônimos:** Ensortijado, crespo, ondulado.
-* **Antônimos:** Liso, lacio.
-* **Exemplo em frase:** Ella luce con orgullo su hermoso cabello rizado al natural.
+*   **Definición:** Que forma rizos, tirabuzones o bucles muy cerrados y marcados (especialmente el cabello).
+*   **Sinónimos:** Crespo, ensortijado, ensortijado.
+*   **Antónimos:** Liso, lacio, plano.
+*   **Ejemplo:** Mi hermana tiene el cabello **rizado** y le cuesta mucho desenredárselo.
 
 ### Rubio / Rubia
-* **Definição:** Que tiene el cabello de un color amarillo claro o dorado.
-* **Sinônimos:** Dorado, claro, bable.
-* **Antônimos:** Moreno, negro, pelirrojo.
-* **Exemplo em frase:** Mi prima pequeña es rubia de ojos azules.
+*   **Definición:** Que tiene el cabello de un color amarillo claro o dorado.
+*   **Sinónimos:** Dorado, claro, blondo.
+*   **Antónimos:** Moreno, negro, oscuro.
+*   **Ejemplo:** El actor principal es **rubio** y tiene los ojos azules.
 
 ### Tranquilo
-* **Definição:** Que está en un estado de paz, quietud o calma, sin agitación.
-* **Sinônimos:** Calmado, pacífico, sereno, relajado.
-* **Antônimos:** Nervioso, inquieto, alterado, ruidoso.
-* **Exemplo em frase:** El pueblo de montaña era un lugar muy tranquilo para descansar.
+*   **Definición:** Que está en un estado de quietud, paz y calma, sin ruidos, agitación o nerviosismo.
+*   **Sinónimos:** Calmado, sereno, pacífico, quieto.
+*   **Antónimos:** Nervioso, alterado, ruidoso, agitado.
+*   **Ejemplo:** Este pueblo es un lugar muy **tranquilo** para vivir durante el retiro.
 
 ### Último / Última
-* **Definição:** Que va al final, después de todos los demás en el tiempo, espacio u orden.
-* **Sinônimos:** Final, definitivo, postrero.
-* **Antônimos:** Primero, inicial, primordial.
-* **Exemplo em frase:** Ella fue la última persona en abandonar la oficina ayer.
+*   **Definición:** Que va detrás de todo lo demás en el espacio, en el tiempo o en una serie ordenada; lo más reciente.
+*   **Sinónimos:** Final, postrero, definitivo, reciente.
+*   **Antónimos:** Primero, inicial, primordial.
+*   **Ejemplo:** Este es el **último** examen del semestre, luego comienzan las vacaciones.
 
 ---
 
 ## 4. Adverbios
 
+### Imposible
+*   **Definición:** (Nota gramatical: Funciona frecuentemente como adjetivo, pero puede actuar adverbialmente en expresiones elípticas). Que no puede ser, ocurrir o realizarse debido a limitaciones o contradicciones físicas o lógicas.
+*   **Sinónimos:** Irrealizable, inviable, utópico, inalcanzable.
+*   **Antónimos:** Posible, factible, viable, hacedero.
+*   **Ejemplo:** Es **imposible** terminar todo este trabajo en menos de diez minutos.
+
+### Mañana
+*   **Definición:** En el día inmediatamente posterior al día actual; parte primera del día (desde el amanecer hasta el mediodía).
+*   **Sinónimos:** Pasado, jornada siguiente, matinal.
+*   **Antónimos:** Ayer, anoche.
+*   **Ejemplo:** **Mañana** tengo que levantarme temprano para ir al médico.
+
 ### Pronto
-* **Definição:** En un espacio corto de tiempo, rápidamente o antes del tiempo esperado.
-* **Sinônimos:** Rápidamente, temprano, velozmente.
-* **Antônimos:** Tarde, despacio.
-* **Exemplo em frase:** Espero que te recuperes pronto de tu resfriado.
+*   **Definición:** En un periodo de tiempo breve, con rapidez o antes del tiempo regular o esperado.
+*   **Sinónimos:** Rápido, temprano, velozmente, inmediatamente.
+*   **Antónimos:** Tarde, despacio, pausadamente.
+*   **Ejemplo:** Por favor, vuelve **pronto** porque te vamos a extrañar muchísimo.
 
 ### Tampoco
-* **Definição:** Se utiliza para negar algo después de haberse hecho otra negación previa.
-* **Sinônimos:** Igualmente no.
-* **Antônimos:** También, asimismo.
-* **Exemplo em frase:** Si tú no vas a la fiesta, yo tampoco iré.
+*   **Definición:** Se utiliza para negar una cosa después de haberse negado otra u otras cosas previamente.
+*   **Sinónimos:** Ni, de igual modo no.
+*   **Antónimos:** También, asimismo.
+*   **Ejemplo:** Si tú no vas a ir a la fiesta, yo **tampoco** iré.
 
 ---
 
 ## 5. Conjunciones
 
 ### Pero
-* **Definição:** Conjunción adversativa que se usa para contraponer un concepto a otro, limitando su alcance.
-* **Sinônimos:** Mas, sin embargo, no obstante, sino.
-* **Antônimos:** No aplica (elemento conector).
-* **Exemplo em frase:** Estudié mucho para el examen, pero no logré la nota máxima.
-
-### u
-* **Definição:** Conjunción disyuntiva equivalente a "o", utilizada exclusivamente antes de palabras que empiezan con el sonido "o" o "ho" para evitar la cacofonía.
-* **Sinônimos:** O.
-* **Antônimos:** No aplica.
-* **Exemplo em frase:** Debes elegir entre un sendero u otro para llegar a la cima.
+*   **Definición:** Conjunción adversativa que se emplea para contraponer un concepto a otro, limitando o aclarando una idea anterior.
+*   **Sinónimos:** Mas, sin embargo, no obstante, sino.
+*   **Antónimos:** (No aplica conceptualmente por ser nexo funcional).
+*   **Ejemplo:** Estudió muchísimo para el examen, **pero** lamentablemente no logró aprobar.
 
 ---
 
 ## 6. Preposiciones
 
 ### Por
-* **Definição:** Preposición que denota causa, motivo, lugar, tiempo, modo o medio.
-* **Sinônimos:** A causa de, a través de, mediante.
-* **Antônimos:** No aplica.
-* **Exemplo em frase:** Caminamos por el parque mientras conversábamos sobre nuestro futuro.
+*   **Definición:** Preposición que denota causa, motivo, lugar a través del cual se pasa, tiempo aproximado, medio o precio.
+*   **Sinónimos:** A causa de, mediante, a través de.
+*   **Antónimos:** (No aplica por ser nexo funcional).
+*   **Ejemplo:** Caminamos **por** el sendero del bosque durante más de dos horas.
 
 ---
 
-## 7. Interjecciones
+## 7. Interjecciones / Expresiones
 
 ### Oye
-* **Definição:** Forma imperativa del verbo oír utilizada como interjección para llamar la atención de alguien o expresar sorpresa.
-* **Sinônimos:** Escucha, atención, ¡eh!.
-* **Antônimos:** No aplica.
-* **Exemplo em frase:** ¡Oye! Ten cuidado al cruzar la calle, que viene un coche.
+*   **Definición:** Interjección derivada del verbo oír utilizada para llamar la atención de alguien, expresar sorpresa o iniciar una conversación.
+*   **Sinónimos:** Escucha, mira, che, oiga.
+*   **Antónimos:** (No aplica por ser elemento expresivo).
+*   **Ejemplo:** ¡**Oye**! Ten cuidado con ese escalón que está roto.
+
+### Perfecto
+*   **Definición:** Utilizado habitualmente como adjetivo, funciona como interjección de asentimiento absoluto para indicar conformidad, aprobación o acuerdo total.
+*   **Sinónimos:** Excelente, magnífico, de acuerdo, genial.
+*   **Antónimos:** Mal, pésimo, inaceptable (como interjección de desacuerdo).
+*   **Ejemplo:** —¿Nos vemos a las cinco de la tarde? —¡**Perfecto**, allí estaré!
+
+### Pronto
+*   **Definición:** (Repetición contextual corta como interjección de urgencia). ¡Rápido! ¡De prisa!
+*   **Sinónimos:** ¡Ya!, ¡Vamos!
+*   **Ejemplo:** ¡**Pronto**, traigan un médico que el hombre se ha desmayado!
+
+### U
+*   **Definición:** Conjunción copulativa equivalente a "o" que se emplea exclusivamente ante palabras que empiezan por el sonido de la vocal 'o' o 'ho' para evitar la cacofonía.
+*   **Sinónimos:** O.
+*   **Ejemplo:** Debes elegir una opción **u** otra, no puedes quedarte con ambas.
