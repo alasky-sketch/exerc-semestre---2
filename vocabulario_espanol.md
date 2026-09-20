@@ -1,295 +1,329 @@
-# Diccionario Temático y Gramatical de Español
+# Diccionario y Guía Gramatical de Palabras en Español
 
-Este documento contiene la definición, sinónimos, antónimos, ejemplos y conjugaciones (para verbos) de las 40 palabras solicitadas, organizadas por categoría gramatical y en orden alfabético.
-
----
-
-## 1. ADJETIVOS
-
-### Delicioso / Deliciosa
-* **Definición:** Que causa deleite o es muy agradable al paladar o a los sentidos.
-* **Sinónimos:** Sabroso, exquisito, rico, apetitoso.
-* **Antónimos:** Desabrido, insípido, repugnante.
-* **Ejemplo:** La abuela preparó una tarta de fresa **deliciosa**.
-
-### Favorito / Favorita
-* **Definición:** Que tiene preferencia o estimación especial entre otros de su misma especie.
-* **Sinónimos:** Predilecto, preferido, elegido.
-* **Antónimos:** Odiado, postergado, rechazado.
-* **Ejemplo:** El bocadillo de jamón es mi almuerzo **favorito**.
-
-### Fresco / Fresca
-* **Definición:** Que tiene un grado de frialdad agradable o que no está deteriorado ni seco (alimentos).
-* **Sinónimos:** Frío, reciente, lozano, tierno.
-* **Antónimos:** Caliente, rancio, marchito.
-* **Ejemplo:** En la pescadería siempre compramos pescado muy **fresco**.
-
-### Listo / Lista
-* **Definición:** Persona que es inteligente y rápida para comprender, o que está preparada para algo.
-* **Sinónimos:** Inteligente, astuto, preparado, dispuesto.
-* **Antónimos:** Tonto, torpe, desparado.
-* **Ejemplo:** ¿Estás **listo** para ir a la frutería a comprar las frutas?
-
-### Salada
-* **Definición:** Que tiene más sal de la necesaria, o que tiene sabor a sal.
-* **Sinónimos:** Salobre, salitroso, sazonado.
-* **Antónimos:** Dulce, soso, insípido.
-* **Ejemplo:** La salsa del pescado quedó un poco **salada**.
-
-### Suficiente
-* **Definición:** Que existe en la cantidad necesaria para satisfacer una necesidad.
-* **Sinónimos:** Bastante, apto, adecuado, competente.
-* **Antónimos:** Insuficiente, escaso, deficiente.
-* **Ejemplo:** Un kilo de arroz es **suficiente** para preparar la paella.
-
-### Triste
-* **Definición:** Que siente melancolía, pena o falta de alegría.
-* **Sinónimos:** Afligido, apenado, melancólico, deprimido.
-* **Antónimos:** Alegre, feliz, contento.
-* **Ejemplo:** El niño estaba **triste** porque perdió su estuche en el río.
+Este documento contiene la definición, sinónimos, antónimos, ejemplos en frase y conjugaciones (para verbos) de la lista de palabras solicitada, organizada por categoría gramatical y en orden alfabético.
 
 ---
 
-## 2. ADVERBIOS Y DETERMINANTES
+## 1. Sustantivos (Sustantivos / Nomes)
 
-### Bastante
-* **Definición:** En cantidad, grado o número adecuado, ni mucho ni poco, o de forma abundante.
-* **Sinónimos:** Suficiente, harto, considerablemente.
-* **Antónimos:** Poco, escasamente, insuficiente.
-* **Ejemplo:** Hoy hay **bastante** gente esperando en la panadería.
+### Cofradía
+* **Definição:** Asociación de personas con un fin religioso, gremial o benéfico.
+* **Sinônimos:** Hermandad, asociación, gremio, corporación.
+* **Antônimos:** Disociación, enemistad.
+* **Exemplo em frase:** La cofradía del pueblo organiza la procesión de Semana Santa todos los años.
 
-### Todo / Toda
-* **Definición:** Que se toma enteramente, con inclusión de todas sus partes o elementos.
-* **Sinónimos:** Íntegro, completo, absoluto, entero.
-* **Antónimos:** Nada, ninguno, parte.
-* **Ejemplo:** Nos comimos **todo** el bocadillo de la merienda.
+### Fachada
+* **Definição:** Parte exterior o delantera de un edificio u otra construcción. También se usa figuradamente para la apariencia exterior de una persona.
+* **Sinônimos:** Frontis, frente, exterior, apariencia.
+* **Antônimos:** Interior, trasera, fondo.
+* **Exemplo em frase:** Han restaurado la hermosa fachada barroca de la catedral.
 
----
+### Mañana
+* **Definição:** Parte del día que transcurre desde el amanecer hasta el mediodía. (Nota: Como adverbio significa el día posterior al de hoy).
+* **Sinônimos:** Alborada, amanecer, madrugada.
+* **Antônimos:** Tarde, noche.
+* **Exemplo em frase:** Siempre me gusta tomar un café caliente por la mañana.
 
-## 3. CONTRACCIONES Y PREPOSICIONES
+### Miel
+* **Definição:** Sustancia dulce y viscosa producida por las abejas a partir del néctar de las flores.
+* **Sinônimos:** Néctar, melaza.
+* **Antônimos:** Hiel, amargor.
+* **Exemplo em frase:** Prefiero endulzar mi té con miel natural en lugar de azúcar.
 
-### Al
-* **Definición:** Contracción de la preposición "a" y el artículo "el". Se usa para indicar dirección, tiempo o modo.
-* **Sinónimos:** (No aplica por ser contracción gramatical).
-* **Antónimos:** Del (contracción opuesta en dirección/origen).
-* **Ejemplo:** Mañana iremos **al** río a pasear.
+### Novio / Novia
+* **Definição:** Persona que mantiene una relación amorosa con otra con la intención de casarse o mantener un vínculo formal.
+* **Sinônimos:** Pareja, prometido/a, enamorado/a.
+* **Antônimos:** Soltero/a, exnovio/a.
+* **Exemplo em frase:** Mi novio me preparó una cena sorpresa por nuestro aniversario.
 
-### De
-* **Definición:** Preposición que denota posesión, origen, materia, causa o pertenencia.
-* **Sinónimos:** (No aplica por ser preposición funcional).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Esta barra **de** pan es de la panadería de la esquina.
+### Pregunta
+* **Definição:** Interrogación que se hace para obtener una información o aclaración.
+* **Sinônimos:** Interrogante, duda, consulta, cuestión.
+* **Antônimos:** Respuesta, contestación, solución.
+* **Exemplo em frase:** El alumno levantó la mano para hacer una pregunta difícil.
 
----
+### Respuesta
+* **Definição:** Contestación a una pregunta, llamada o estímulo.
+* **Sinônimos:** Contestación, solución, réplica.
+* **Antônimos:** Pregunta, interrogación.
+* **Exemplo em frase:** Recibí una respuesta afirmativa a mi solicitud de empleo.
 
-## 4. SUSTANTIVOS
-
-### Barra
-* **Definición:** Pieza de pan de forma alargada, o pieza sólida de cualquier materia que es más larga que gruesa.
-* **Sinónimos:** Pieza, lingote, tira, madero.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Compré una **barra** de pan para hacer los bocadillos.
-
-### Bocadillo
-* **Definición:** Alimento que consiste en un pan abierto en dos mitades con comida en su interior.
-* **Sinónimos:** Sándwich, emparedado, bocata.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Preparé un **bocadillo** de queso para llevar a la escuela.
-
-### Carnicería
-* **Definición:** Establecimiento comercial donde se vende carne comestible.
-* **Sinónimos:** Tienda de carne, abasto.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Compramos filetes de ternera en la **carnicería** del barrio.
-
-### Ducha
-* **Definición:** Aparato que vierte agua en forma de lluvia para lavarse el cuerpo, o acción de bañarse usando este aparato.
-* **Sinónimos:** Baño, lavado, regadera.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Después de correr, siempre me tomo una **ducha** rápida.
-
-### Encanto
-* **Definición:** Conjunto de cualidades que hacen que una persona o cosa sea muy atractiva o agradable.
-* **Sinónimos:** Atractivo, carisma, gracia, fascinación.
-* **Antónimos:** Repulsión, desagrado, fealdad.
-* **Ejemplo:** Ese pueblo al lado del río tiene mucho **encanto**.
-
-### Estuche
-* **Definición:** Caja o envoltura para guardar ordenadamente objetos como lápices, joyas o herramientas.
-* **Sinónimos:** Estuche escolar, cartuchera, caja, contenedor.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Guardé el bolígrafo y el **estuche** dentro de la mochila.
-
-### Fresa
-* **Definición:** Fruta pequeña, de color rojo brillante, de sabor dulce con un punto ácido y aroma agradable.
-* **Sinónimos:** Frutilla (en América Latina).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Compré un paquete de **fresas** frescas en la frutería.
-
-### Frutería
-* **Definición:** Tienda o establecimiento donde se vende fruta y, a menudo, también verdura.
-* **Sinónimos:** Tienda de frutas, verdulería.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** La **frutería** de la plaza tiene los mejores mangos.
-
-### Gramo
-* **Definición:** Unidad de masa del Sistema Internacional que equivale a la milésima parte de un kilogramo.
-* **Sinónimos:** (No aplica, es unidad de medida).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Necesito cien **gramos** de nueces para la receta del pastel.
-
-### Lápiz
-* **Definición:** Instrumento para escribir o dibujar consistente en una barra de grafito encerrada en un cilindro de madera.
-* **Sinónimos:** Lapicero, mina, carboncillo.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Prefiero dibujar los bocetos con un **lápiz** suave.
-
-### Librería
-* **Definición:** Establecimiento comercial donde se venden libros, o mueble con estantes para colocarlos.
-* **Sinónimos:** Tienda de libros, biblioteca (mueble), estantería.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Fui a la **librería** a comprar una novela recomendada.
-
-### Lista (de la compra)
-* **Definición:** Enumeración escrita de personas, cosas o cantidades que se hace con un propósito determinado.
-* **Sinónimos:** Enumeración, inventario, catálogo, nómina.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Antes de ir al supermercado, reviso la **lista de la compra**.
-
-### Litro
-* **Definición:** Unidad de volumen del Sistema Internacional que equivale al espacio de un decímetro cúbico.
-* **Sinónimos:** (No aplica, es unidad de medida).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Compré un **litro** de leche fresca en el supermercado.
-
-### Lombriz
-* **Definición:** Gusano de cuerpo cilíndrico, blando y anillado que vive enterrado en la tierra húmeda.
-* **Sinónimos:** Gusano, gusarapa.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Usamos una **lombriz** como cebo para pescar en el río.
-
-### Luz
-* **Definición:** Forma de energía que ilumina las cosas y las hace visibles, procedente del sol o de lámparas.
-* **Sinónimos:** Claridad, iluminación, resplandor, destello.
-* **Antónimos:** Oscuridad, tinieblas, sombra.
-* **Ejemplo:** Encendí la **luz** de la cocina porque ya era de noche.
-
-### Maíz
-* **Definición:** Planta cereal de tallo alto y mazorcas con granos amarillos muy nutritivos.
-* **Sinónimos:** Choclo, elote (en América Latina).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** La ensalada tiene lechuga, tomate y granos de **maíz**.
-
-### Nuez
-* **Definición:** Fruto del nogal, de cáscara dura e interior comestible con forma similar al cerebro.
-* **Sinónimos:** Fruto seco.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Me gusta comer yogur natural con un puñado de **nueces**.
-
-### Paella
-* **Definición:** Plato típico español elaborado a base de arroz cocinado con carne, pescado, mariscos y verduras en una sartén llana.
-* **Sinónimos:** (No aplica, es un plato específico).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** El domingo cocinamos una **paella** de marisco para toda la familia.
-
-### Panadería
-* **Definición:** Establecimiento donde se fabrica y vende pan y otros productos de repostería.
-* **Sinónimos:** Tahona, expensas de pan.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** El olor a pan recién horneado inunda la **panadería** cada mañana.
-
-### Paquete
-* **Definición:** Objeto o conjunto de objetos envueltos y atados para ser transportados o guardados.
-* **Sinónimos:** Bulto, fardo, caja, envoltorio.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** El cartero dejó un **paquete** grande en la entrada de la casa.
-
-### Pes (Pez)
-* **Definición:** Animal vertebrado acuático de respiración branquial y extremidades en forma de aletas (Nota: "pes" es una variante arcaica o error ortográfico común por **pez**).
-* **Sinónimos:** Peje, espárido (según tipo).
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Vimos un **pez** de colores brillantes nadando en el fondo del río.
-
-### Pescadería
-* **Definición:** Establecimiento comercial donde se vende pescado y marisco fresco o congelado.
-* **Sinónimos:** Tienda de pescado.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Fui a la **pescadería** a comprar almejas para la paella.
-
-### Recomendación
-* **Definición:** Acción de aconsejar a alguien sobre lo que es bueno, beneficioso o preferible.
-* **Sinónimos:** Consejo, sugerencia, advertencia, propuesta.
-* **Antónimos:** Desaprobación, censura, crítica.
-* **Ejemplo:** Seguí la **recomendación** del librero y compré este libro de misterio.
-
-### Río
-* **Definición:** Corriente natural de agua continua que desemboca en otra similar, en un lago o en el mar.
-* **Sinónimos:** Arroyo, torrente, riachuelo.
-* **Antónimos:** Mar, océano (cuerpos de agua salada/estancada relativamente).
-* **Ejemplo:** Fuimos a nadar al **río** durante las vacaciones de verano.
-
-### Salsa
-* **Definición:** Mezcla líquida o pastosa de varios ingredientes que se usa para aderezar o acompañar los alimentos.
-* **Sinónimos:** Aderezo, condimento, aliño, jugo.
-* **Antónimos:** (No aplica).
-* **Ejemplo:** Me encanta la **salsa** de tomate casera sobre la pasta.
+### Siesta
+* **Definição:** Tiempo destinado a dormir o descansar después de almorzar.
+* **Sinônimos:** Descanso, reposo, cabezada.
+* **Antônimos:** Insomnio, desvelo.
+* **Exemplo em frase:** En muchos pueblos de España es costumbre dormir la siesta durante el verano.
 
 ---
 
-## 5. VERBOS (CON CONJUGACIONES COMPLETAS)
+## 2. Verbos
 
-### Encantar
-* **Definición:** Gustar mucho algo a alguien de forma extrema, o ejercer una influencia mágica sobre alguien.
-* **Sinónimos:** Fascinar, maravillar, deleitar, cautivar.
-* **Antónimos:** Detestar, aborrecer, odiar.
-* **Ejemplo:** Me **encanta** el bocadillo de esta panadería.
+### Apetecer
+* **Definição:** Tener ganas de algo, desearlo o resultar agradable.
+* **Sinônimos:** Antojarse, desear, querer, agradar.
+* **Antônimos:** Desagradar, repeler, aborrecer.
+* **Exemplo em frase:** Con este frío, me apetece un chocolate caliente.
+* **Conjugaciones Principales (Presente, Pasado, Futuro del Indicativo):**
+  * *Presente:* yo apetezco, tú apeteces, él apetece, nosotros apetecemos, vosotros apetecéis, ellos apetecen.
+  * *Pretérito Perfecto Simple:* yo apetecí, tú apeteciste, él apeteció, nosotros apetecimos, vosotros apetecisteis, ellos apetecieron.
+  * *Futuro:* yo apeteceré, tú apetecerás, él apetecerá, nosotros apeteceremos, vosotros apeteceréis, ellos apetecerán.
 
-#### Conjugación (Tiempos Principales del Indicativo y Subjuntivo)
-* **Presente de Indicativo:** yo encanto, tú encantas, él/ella encanta, nosotros/as encantamos, vosotros/as encantáis, ellos/ellas encantan.
-* **Pretérito Imperfecto de Indicativo:** yo encantaba, tú encantabas, él/ella encantaba, nosotros/as encantábamos, vosotros/as encantabais, ellos/ellas encantaban.
-* **Pretérito Perfecto Simple:** yo encanté, tú encantaste, él/ella encantó, nosotros/as encantamos, vosotros/as encantasteis, ellos/ellas encantaron.
-* **Futuro Simple de Indicativo:** yo encantaré, tú encantarás, él/ella encantará, nosotros/as encantaremos, vosotros/as encantaréis, ellos/ellas encantarán.
-* **Presente de Subjuntivo:** yo encante, tú encantes, él/ella encante, nosotros/as encantemos, vosotros/as encantéis, ellos/ellas encanten.
-* **Formas no personales:** Gerundio: *encantando* | Participio: *encantado*.
+### Chatear
+* **Definição:** Mantener una conversación mediante mensajes de texto en tiempo real a través de internet.
+* **Sinônimos:** Conversar, mensajear, textear.
+* **Antônimos:** Callar, incomunicarse.
+* **Exemplo em frase:** Pasa horas enteras chateando con sus amigos del extranjero.
+* **Conjugaciones Principales:**
+  * *Presente:* yo chateo, tú chateas, él chatea, nosotros chateamos, vosotros chateáis, ellos chatean.
+  * *Pretérito Perfecto Simple:* yo chateé, tú chateaste, él chateó, nosotros chateamos, vosotros chateasteis, ellos chatearon.
+  * *Futuro:* yo chatearé, tú chatearás, él chateará, nosotros chatearemos, vosotros chatearéis, ellos chatearán.
 
-### Necesitar
-* **Definición:** Tener necesidad de alguien o algo para un fin determinado o para subsistir.
-* **Sinónimos:** Requerir, precisar, carecer, demandar.
-* **Antónimos:** Sobrar, prescindir, tener en abundancia.
-* **Ejemplo:** Voy a **necesitar** un litro de aceite para cocinar hoy.
+### Cocinar
+* **Definição:** Preparar los alimentos mediante la acción del fuego o calor para que puedan comerse.
+* **Sinônimos:** Guisar, preparar, aderezar, hornear.
+* **Antônimos:** Ayunar, crudiar.
+* **Exemplo em frase:** Mi abuela solía cocinar los mejores platos tradicionales los domingos.
+* **Conjugaciones Principales:**
+  * *Presente:* yo cocino, tú cocinas, él cocina, nosotros cocinamos, vosotros cocináis, ellos cocinan.
+  * *Pretérito Perfecto Simple:* yo cociné, tú cocinaste, él cocinó, nosotros cocinamos, vosotros cocinasteis, ellos cocinaron.
+  * *Futuro:* yo cocinaré, tú cocinarás, él cocinará, nosotros cocinaremos, vosotros cocinaréis, ellos cocinarán.
 
-#### Conjugación (Tiempos Principales del Indicativo y Subjuntivo)
-* **Presente de Indicativo:** yo necesito, tú necesitas, él/ella necesita, nosotros/as necesitamos, vosotros/as necesitáis, ellos/ellas necesitan.
-* **Pretérito Imperfecto de Indicativo:** yo necesitaba, tú necesitabas, él/ella necesitaba, nosotros/as necesitábamos, vosotros/as necesitabais, ellos/ellas necesitaban.
-* **Pretérito Perfecto Simple:** yo necesité, tú necesitaste, él/ella necesitó, nosotros/as necesitamos, vosotros/as necesitasteis, ellos/ellas necesitaron.
-* **Futuro Simple de Indicativo:** yo necesitaré, tú necesitarás, él/ella necesitará, nosotros/as necesitaremos, vosotros/as necesitaréis, ellos/ellas necesitarán.
-* **Presente de Subjuntivo:** yo necesite, tú necesites, él/ella necesite, nosotros/as necesitemos, vosotros/as necesitéis, ellos/ellas necesiten.
-* **Formas no personales:** Gerundio: *necesitando* | Participio: *necesitado*.
+### Dormir
+* **Definição:** Estar en un estado de reposo en el que se suspende la conciencia y la actividad voluntaria.
+* **Sinônimos:** Descansar, pernoctar, reposar.
+* **Antônimos:** Despertar, desvelarse.
+* **Exemplo em frase:** El médico me recomendó dormir al menos ocho horas cada noche.
+* **Conjugaciones Principales (Verbo irregular: o -> ue):**
+  * *Presente:* yo duermo, tú duermes, él duerme, nosotros dormimos, vosotros dormís, ellos duermen.
+  * *Pretérito Perfecto Simple:* yo dormí, tú dormiste, él durmió, nosotros dormimos, vosotros dormisteis, ellos durmieron.
+  * *Futuro:* yo dormiré, tú dormirás, él dormirá, nosotros dormiremos, vosotros dormiréis, ellos dormirán.
 
-### Parecer
-* **Definición:** Tener determinado aspecto o parecerse a algo o alguien, o emitir un juicio u opinión de algo.
-* **Sinónimos:** Semejar, aparentar, figurar, creer.
-* **Antónimos:** Diferenciarse, distar.
-* **Ejemplo:** Esa salsa de maíz me **parece** muy deliciosa.
+### Echar
+* **Definição:** Hacer que una cosa caiga en un lugar, despedir de sí, o expulsar a alguien de un sitio.
+* **Sinônimos:** Arrojar, lanzar, despedir, expulsar.
+* **Antônimos:** Recoger, acoger, retener.
+* **Exemplo em frase:** Recuerda echar la carta en el buzón antes de volver a casa.
+* **Conjugaciones Principales:**
+  * *Presente:* yo echo, tú echas, él echa, nosotros echamos, vosotros echáis, ellos echan.
+  * *Pretérito Perfecto Simple:* yo eché, tú echaste, él echó, nosotros echamos, vosotros echasteis, ellos echaron.
+  * *Futuro:* yo echaré, tú echarás, él echará, nosotros echaremos, vosotros echaréis, ellos echarán.
 
-#### Conjugación (Tiempos Principales del Indicativo y Subjuntivo)
-* **Presente de Indicativo:** yo parezco, tú pareces, él/ella parece, nosotros/as parecemos, vosotros/as parecéis, ellos/ellas parecen.
-* **Pretérito Imperfecto de Indicativo:** yo parecía, tú parecías, él/ella parecía, nosotros/as parecíamos, vosotros/as parecíais, ellos/ellas parecían.
-* **Pretérito Perfecto Simple:** yo aparecí, tú pareciste, él/ella pareció, nosotros/as parecimos, vosotros/as parecisteis, ellos/ellas parecieron.
-* **Futuro Simple de Indicativo:** yo pareceré, tú parecerás, él/ella parecerá, nosotros/as pareceremos, vosotros/as pareceréis, ellos/ellas parecerán.
-* **Presente de Subjuntivo:** yo parezca, tú parezcas, él/ella parezca, nosotros/as parezcamos, vosotros/as parezcáis, ellos/ellas parezcan.
-* **Formas no personales:** Gerundio: *pareciendo* | Participio: *parecido*.
+### Echarse
+* **Definição:** Acostarse o tumbarse para descansar o dormir un rato.
+* **Sinônimos:** Acostarse, tumbarse, recostarse.
+* **Antônimos:** Levantarse, erguirse.
+* **Exemplo em frase:** Voy a echarme un rato en el sofá porque me duele la cabeza.
+* **Conjugaciones Principales (Pronominal):**
+  * *Presente:* yo me echo, tú te echas, él se echa, nosotros nos echamos, vosotros os echáis, ellos se echan.
+  * *Pretérito Perfecto Simple:* yo me eché, tú te echaste, él se echó, nosotros nos echamos, vosotros os echasteis, ellos se echaron.
+  * *Futuro:* yo me echaré, tú te echarás, él se echará, nosotros nos echaremos, vosotros os echaréis, ellos se echarán.
 
-### Recomendar
-* **Definición:** Aconsejar algo a alguien por considerarlo bueno o ventajoso para él.
-* **Sinónimos:** Sugerir, aconsejar, encomendar, proponer.
-* **Antónimos:** Desaconsejar, disuadir, prohibir.
-* **Ejemplo:** Te quiero **recomendar** esta pescadería por su frescura.
+### Limpiar
+* **Definição:** Quitar la suciedad de una cosa.
+* **Sinônimos:** Asear, lavar, purificar, sacudir.
+* **Antônimos:** Ensuciar, manchar, contaminar.
+* **Exemplo em frase:** Es necesario limpiar las ventanas para que entre más luz natural.
+* **Conjugaciones Principales:**
+  * *Presente:* yo limpio, tú limpias, él limpia, nosotros limpiamos, vosotros limpiáis, ellos limpian.
+  * *Pretérito Perfecto Simple:* yo limpié, tú limpiaste, él limpió, nosotros limpiamos, vosotros limpiasteis, ellos limpiaron.
+  * *Futuro:* yo limpiaré, tú limpiarás, él limpiará, nosotros limpiaremos, vosotros limpiaréis, ellos limpiarán.
 
-#### Conjugación (Tiempos Principales del Indicativo y Subjuntivo - Nota: tiene diptongación e->ie)
-* **Presente de Indicativo:** yo recomiendo, tú recomiendas, él/ella recomienda, nosotros/as recomendamos, vosotros/as recomendáis, ellos/ellas recomiendan.
-* **Pretérito Imperfecto de Indicativo:** yo recomendaba, tú recomendabas, él/ella recomendaba, nosotros/as recomendábamos, vosotros/as recomendabais, ellos/ellas recomendaban.
-* **Pretérito Perfecto Simple:** yo recomendé, tú recomendaste, él/ella recomendó, nosotros/as recomendamos, vosotros/as recomendasteis, ellos/ellas recomendaron.
-* **Futuro Simple de Indicativo:** yo recomendaré, tú recomendarás, él/ella recomendará, nosotros/as recomendaremos, vosotros/as recomendaréis, ellos/ellas recomendarán.
-* **Presente de Subjuntivo:** yo recomiende, tú recomiendes, él/ella recomiende, nosotros/as recomendemos, vosotros/as recomendéis, ellos/ellas recomienden.
-* **Formas no personales:** Gerundio: *recomendando* | Participio: *recomendado*.
+### Llover
+* **Definição:** Caer agua de las nubes en forma de gotas. (Verbo impersonal).
+* **Sinônimos:** Diluviar, lloviznar, chispear.
+* **Antônimos:** Escampar, despejar.
+* **Exemplo em frase:** Parece que va a llover esta tarde, lleva el paraguas.
+* **Conjugaciones Principales (Impersonal - Solo 3ª persona del singular):**
+  * *Presente:* llueve.
+  * *Pretérito Perfecto Simple:* llovió.
+  * *Futuro:* lloverá.
+
+### Montar
+* **Definição:** Subirse encima de un animal, de un vehículo o de una estructura. También significa ensamblar piezas.
+* **Sinônimos:** Cabalgar, subir, armar, ensamblar.
+* **Antônimos:** Desmontar, bajar, apearse.
+* **Exemplo em frase:** A los niños les encanta montar en bicicleta por el parque.
+* **Conjugaciones Principales:**
+  * *Presente:* yo monto, tú montas, él monta, nosotros montamos, vosotros montáis, ellos montan.
+  * *Pretérito Perfecto Simple:* yo monté, tú montaste, él montó, nosotros montamos, vosotros montasteis, ellos montaron.
+  * *Futuro:* yo montaré, tú montarás, él montará, nosotros montaremos, vosotros montaréis, ellos montarán.
+
+### Pasear
+* **Definição:** Caminar o andar por gusto o distracción.
+* **Sinônimos:** Caminar, andar, deambular, recorrer.
+* **Antônimos:** Detenerse, quedarse, pararse.
+* **Exemplo em frase:** Nos gusta pasear por la playa durante el atardecer.
+* **Conjugaciones Principales:**
+  * *Presente:* yo paseo, tú paseas, él pasea, nosotros paseamos, vosotros paseáis, ellos pasean.
+  * *Pretérito Perfecto Simple:* yo paseé, tú paseaste, él paseó, nosotros paseamos, vosotros paseasteis, ellos pasearon.
+  * *Futuro:* yo pasearé, tú pasearás, él paseará, nosotros pasearemos, vosotros pasearéis, ellos pasearán.
+
+---
+
+## 3. Adjetivos
+
+### Asqueroso
+* **Definição:** Que causa asco, repugnancia o suciedad extrema.
+* **Sinônimos:** Repugnante, inmundo, sucio, repulsivo.
+* **Antônimos:** Limpio, atrayente, delicioso, agradable.
+* **Exemplo em frase:** El callejón trasero del restaurante olía de forma asquerosa.
+
+### Canoso / Canosa
+* **Definição:** Que tiene el pelo blanco o gris debido a la edad o la genética.
+* **Sinônimos:** Entrecano, encanecido, blanquecino.
+* **Antônimos:** Pelirrojo, moreno, rubio (sin canas).
+* **Exemplo em frase:** Mi abuelo tiene un aspecto muy distinguido con su cabello canoso.
+
+### Castaño
+* **Definição:** De color marrón similar al de la cáscara de la castaña. Se usa mucho para describir el pelo o los ojos.
+* **Sinônimos:** Marrón, pardo, avellana.
+* **Antônimos:** Rubio, negro, albino.
+* **Exemplo em frase:** Ella tiene unos ojos castaños muy expresivos.
+
+### Correcto / Correcta
+* **Definição:** Que está libre de errores, o que se comporta de acuerdo con las normas de educación y moral.
+* **Sinônimos:** Acertado, exacto, educado, adecuado.
+* **Antônimos:** Incorrecto, equivocado, maleducado, erróneo.
+* **Exemplo em frase:** Su respuesta en el examen de matemáticas fue totalmente correcta.
+
+### Imposible
+* **Definição:** Que no puede ocurrir, suceder o ejecutarse.
+* **Sinônimos:** Inviable, irrealizable, utópico, inalcanzable.
+* **Antônimos:** Posible, factible, realizable.
+* **Exemplo em frase:** Es imposible volar sin la ayuda de algún tipo de tecnología.
+
+### Liso
+* **Definição:** Que no tiene arrugas, relieves ni ondas (referido al pelo, lacio).
+* **Sinônimos:** Llano, lacio, terso, suave.
+* **Antônimos:** Rizado, rugoso, áspero, ondulado.
+* **Exemplo em frase:** Ella prefiere usar la plancha para dejar su cabello completamente liso.
+
+### Moreno / Morena
+* **Definição:** Persona que tiene la piel oscura o el pelo negro o castaño oscuro.
+* **Sinônimos:** Trigueño, oscuro, tostado, castaño.
+* **Antônimos:** Rubio, pálido, pelirrojo.
+* **Exemplo em frase:** Después de las vacaciones de verano en la playa, regresó muy moreno.
+
+### Nervioso / Nerviosa
+* **Definição:** Que tiene falta de tranquilidad o sufre de un estado de agitación o tensión emocional.
+* **Sinônimos:** Agitado, ansioso, alterado, inquieto.
+* **Antônimos:** Tranquilo, calmado, sereno.
+* **Exemplo em frase:** Estaba muy nervioso antes de subir al escenario para dar su discurso.
+
+### Ondulado
+* **Definição:** Que forma ondas o curvas suaves.
+* **Sinônimos:** Rizado, ondeado, sinuoso.
+* **Antônimos:** Liso, recto, lacio.
+* **Exemplo em frase:** Su cabello ondulado se mueve suavemente con la brisa marina.
+
+### Ordenado / Ordenada
+* **Definição:** Que guarda orden, limpieza y concierto en sus cosas o en su vida.
+* **Sinônimos:** Organizado, metódico, limpio, arreglado.
+* **Antônimos:** Desordenado, caótico, desorganizado.
+* **Exemplo em frase:** Marcos es un chico muy ordenado; siempre sabe dónde están sus papeles.
+
+### Pelirrojo / Pelirroja
+* **Definição:** Que tiene el cabello de color rojo o anaranjado natural.
+* **Sinônimos:** Rufino, ígneo.
+* **Antônimos:** Rubio, moreno, canoso.
+* **Exemplo em frase:** Solo una pequeña parte de la población mundial nace pelirroja.
+
+### Perfecto / Perfecta
+* **Definição:** Que tiene el mayor grado posible de excelencia o bondad en su línea, sin ningún defecto.
+* **Sinônimos:** Ideal, impecable, excelente, consumado.
+* **Antônimos:** Defectuoso, imperfecto, malo.
+* **Exemplo em frase:** Pasamos un día perfecto en el campo con toda la familia.
+
+### Pobre
+* **Definição:** Que no tiene lo necesario para vivir o que es digno de compasión.
+* **Sinônimos:** Necesitado, humilde, escaso, desafortunado.
+* **Antônimos:** Rico, adinerado, opulento.
+* **Exemplo em frase:** Aquella humilde comunidad rural era muy pobre pero sumamente hospitalaria.
+
+### Popular
+* **Definição:** Que es conocido y estimado por la gente en general, o relativo al pueblo.
+* **Sinônimos:** Famoso, querido, célebre, común.
+* **Antônimos:** Desconocido, impopular, aristocrático.
+* **Exemplo em frase:** El fútbol es el deporte más popular del planeta.
+
+### Rico
+* **Definição:** Que tiene mucho dinero o bienes. También se refiere a comida sabrosa.
+* **Sinônimos:** Adinerado, opulento, sabroso, delicioso.
+* **Antônimos:** Pobre, desabrido, insípido.
+* **Exemplo em frase:** Ese postre de chocolate está realmente rico.
+
+### Rizado
+* **Definição:** Cabello que forma tirabuzones, rulos o bucles muy marcados.
+* **Sinônimos:** Ensortijado, crespo, ondulado.
+* **Antônimos:** Liso, lacio.
+* **Exemplo em frase:** Ella luce con orgullo su hermoso cabello rizado al natural.
+
+### Rubio / Rubia
+* **Definição:** Que tiene el cabello de un color amarillo claro o dorado.
+* **Sinônimos:** Dorado, claro, bable.
+* **Antônimos:** Moreno, negro, pelirrojo.
+* **Exemplo em frase:** Mi prima pequeña es rubia de ojos azules.
+
+### Tranquilo
+* **Definição:** Que está en un estado de paz, quietud o calma, sin agitación.
+* **Sinônimos:** Calmado, pacífico, sereno, relajado.
+* **Antônimos:** Nervioso, inquieto, alterado, ruidoso.
+* **Exemplo em frase:** El pueblo de montaña era un lugar muy tranquilo para descansar.
+
+### Último / Última
+* **Definição:** Que va al final, después de todos los demás en el tiempo, espacio u orden.
+* **Sinônimos:** Final, definitivo, postrero.
+* **Antônimos:** Primero, inicial, primordial.
+* **Exemplo em frase:** Ella fue la última persona en abandonar la oficina ayer.
+
+---
+
+## 4. Adverbios
+
+### Pronto
+* **Definição:** En un espacio corto de tiempo, rápidamente o antes del tiempo esperado.
+* **Sinônimos:** Rápidamente, temprano, velozmente.
+* **Antônimos:** Tarde, despacio.
+* **Exemplo em frase:** Espero que te recuperes pronto de tu resfriado.
+
+### Tampoco
+* **Definição:** Se utiliza para negar algo después de haberse hecho otra negación previa.
+* **Sinônimos:** Igualmente no.
+* **Antônimos:** También, asimismo.
+* **Exemplo em frase:** Si tú no vas a la fiesta, yo tampoco iré.
+
+---
+
+## 5. Conjunciones
+
+### Pero
+* **Definição:** Conjunción adversativa que se usa para contraponer un concepto a otro, limitando su alcance.
+* **Sinônimos:** Mas, sin embargo, no obstante, sino.
+* **Antônimos:** No aplica (elemento conector).
+* **Exemplo em frase:** Estudié mucho para el examen, pero no logré la nota máxima.
+
+### u
+* **Definição:** Conjunción disyuntiva equivalente a "o", utilizada exclusivamente antes de palabras que empiezan con el sonido "o" o "ho" para evitar la cacofonía.
+* **Sinônimos:** O.
+* **Antônimos:** No aplica.
+* **Exemplo em frase:** Debes elegir entre un sendero u otro para llegar a la cima.
+
+---
+
+## 6. Preposiciones
+
+### Por
+* **Definição:** Preposición que denota causa, motivo, lugar, tiempo, modo o medio.
+* **Sinônimos:** A causa de, a través de, mediante.
+* **Antônimos:** No aplica.
+* **Exemplo em frase:** Caminamos por el parque mientras conversábamos sobre nuestro futuro.
+
+---
+
+## 7. Interjecciones
+
+### Oye
+* **Definição:** Forma imperativa del verbo oír utilizada como interjección para llamar la atención de alguien o expresar sorpresa.
+* **Sinônimos:** Escucha, atención, ¡eh!.
+* **Antônimos:** No aplica.
+* **Exemplo em frase:** ¡Oye! Ten cuidado al cruzar la calle, que viene un coche.
